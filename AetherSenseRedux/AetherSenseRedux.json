@@ -1,0 +1,19 @@
+{
+  "Author": "Asyrial",
+  "Name": "AetherSense Redux (18+)",
+  "InternalName": "AetherSenseRedux",
+  "AssemblyVersion": "0.7.8272.42451",
+  "Description": "An advanced haptic feedback plugin for game controllers, adult toys, and more using the Buttplug.io library. Requires Intiface Desktop to operate.",
+  "ApplicableVersion": "6.3",
+  "RepoUrl": "https://github.com/Asyrial/AetherSenseRedux",
+  "Tags": [
+    "parsing",
+    "buttplug",
+    "haptic",
+    "erp",
+    "toy"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadPriority": 0,
+  "Punchline": "For You"
+}
