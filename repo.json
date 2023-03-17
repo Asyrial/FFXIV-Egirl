@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Asyrial",
+    "Name": "AetherSense Redux (18+)",
+    "InternalName": "AetherSense Redux",
+    "AssemblyVersion": "0.7.8272.42451",
+    "Description": "Haptic Feedback plugin for adult toys using the Buttplug.io Library" 
+    "ApplicableVersion" : "6.3",
+    "RepoUrl" : "https://github.com/Asyrial/AetherSenseRedux",
+    "Tags": [
+          "parsing",
+          "buttplug",
+          "haptic",
+          "erp",
+          "toy",
+            ],
+
+  "DalamudApiLevel" : 8,
+  "LoadPriority" : 0,
+  "Punchline" : "For You",
+  "DownloadLinkInstall" : "https://raw.githubusercontent.com/Asyrial/FFXIV-Egirl/main/plugins/AetherSenseRedux/latest.zip",
+  "DownloadLinkTesting" : "https://raw.githubusercontent.com/Asyrial/FFXIV-Egirl/main/plugins/AetherSenseRedux/latest.zip",
+  "DownloadLinkUpdate"  : "https://raw.githubusercontent.com/Asyrial/FFXIV-Egirl/main/plugins/AetherSenseRedux/latest.zip",
+},
+]
